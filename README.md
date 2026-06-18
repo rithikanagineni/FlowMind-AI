@@ -2,7 +2,8 @@
 
 > **Work smarter, not harder.** FlowMind is an AI-powered productivity platform that plans your day, breaks down your work, detects burnout, and keeps you in flow.
 
-Access the live workin demo from here:  https://flow-mind-aiproductivity.netlify.app/
+Access the live workin demo from here:  
+https://flowmind-productivity-ai.netlify.app/
 ---
 
 ## 📖 Overview
